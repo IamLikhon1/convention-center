@@ -1,0 +1,30 @@
+*{
+    
+    font-family: 'Poppins';
+}
+.banner-img-1{
+    background-image: url('images/banner.png');
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+.banner-img-2{
+    background-image: url('images/wedding.png');
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+   
+}
+.banner-img-3{
+    background-image: url('images/banner.png');
+    height: 100vh;
+    background-size: cover;
+    width: 100%;   
+
+}
+.mybtn{
+    background-color: rgb(253, 198, 198);
+}
+.myimg{
+    width: 100px;
+}
